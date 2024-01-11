@@ -20,4 +20,4 @@ Bu Python script'i, belirli bir kripto cüzdanındaki bir tokenin varlığını 
 - **THRESHOLD değerini, kontrol etmek istediğiniz token miktarına göre güncelleyin.**
 - **Programı kapatmak için herhangi bir zaman Q tuşuna basabilirsiniz.**
 
-- Bu repo, çeşitli kripto blockchain sağlayıcılarının API'lerini kullanarak cüzdan adresinizdeki bir tokenin varlığını izlemek için başlangıç noktası olarak kullanılabilir.
+Bu repo, çeşitli kripto blockchain sağlayıcılarının API'lerini kullanarak cüzdan adresinizdeki bir tokenin varlığını izlemek için başlangıç noktası olarak kullanılabilir.
