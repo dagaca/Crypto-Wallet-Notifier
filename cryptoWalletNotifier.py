@@ -24,7 +24,7 @@ THRESHOLD = 500  # NOT: Bu değeri kontrol etmek istediğiniz değer olarak gün
 def send_notification(message):
     """Bildirim gönderme fonksiyonu."""
     print(message)
-    winsound.Beep(1000, 4000)  # Windows için bildirim sesi çalma (2 saniye)
+    winsound.Beep(1000, 4000)  # Windows için bildirim sesi çalma (4 saniye)
 
 def main():
     """Ana program döngüsü."""
